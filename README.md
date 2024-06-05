@@ -34,6 +34,7 @@
 <a href="https://www.linkedin.com/in/vitoriaferreiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
   
-![Snake animation](https://github.com/Vick-Ferreira/Vick-Ferreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Vick-Ferreira/Vick-Ferreira/output/github-contribution-grid-snake.svg)
+
 </div>
 
