@@ -30,7 +30,6 @@
 
 <div>
 <a href="http://vitoriaferreiradev.com.br/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" style="height: 28px; vertical-align: middle;"></a>
-<a href="vitoriaferreirap06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/vitoriaferreiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
