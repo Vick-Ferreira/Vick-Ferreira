@@ -32,7 +32,7 @@
 <a href="http://vitoriaferreiradev.com.br/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" style="height: 28px; vertical-align: middle;"></a>
 <a href="https://www.linkedin.com/in/vitoriaferreiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
+![Snake animation](https://github.com/Vick-Ferreira/Vick-Ferreira/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
