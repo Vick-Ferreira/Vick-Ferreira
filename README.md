@@ -2,15 +2,13 @@
 
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais para iniciar minha carreira ...
-- 🌱 Uso hoje, javascript, node.js com mongo.db...
-- 👯 Procuro começar e aprofundar os estudos em java e MySQL ...
+- 🌱 Meu foco hoje é: C++ e Java..
+- 👯 Procuro aprofundar meus estudos diariamente ...
 - 📫 Como entrar em contato comigo: https://vitoriaferreiradev.com.br/ 
 
 
 <div align="center">
-  <a href="https://github.com/Vick-Ferreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vick-Ferreira&show_icons=true&theme=dracula&include_all_commits=true" />
-  </a>
+ 
   <a href="https://github.com/Vick-Ferreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vick-Ferreira&layout=compact&langs_count=7&theme=dracula" />
   </a>
